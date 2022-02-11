@@ -30,7 +30,7 @@ const newspapers = [
   {
     name: 'InfoWorld',
     address: 'https://www.infoworld.com/category/javascript/',
-    base: ''
+    base: 'https://www.infoworld.com'
   },
   {
     name: 'ChangeLog',
